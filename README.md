@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
-- Contact with me [www.linkedin.com/in/ayşegül-taşcı](www.linkedin.com/in/ayşegül-taşcı)
+- Contact with me (www.linkedin.com/in/ayşegül-taşcı)
 
 - 📫 How to reach me **aysegul352tasci@gmail.com**
 
