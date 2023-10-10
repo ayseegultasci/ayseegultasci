@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Flutter & Dart**
 - 📫 How to reach me **aysegul352tasci@gmail.com**
 
-<h3 align="left">Connect with me:( www.linkedin.com/in/ayşegül-taşcı)</h3>
+
 <p align="left">
 </p>
 
