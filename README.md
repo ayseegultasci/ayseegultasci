@@ -2,12 +2,9 @@
 <h3 align="center">👩🏼‍💻 I am studying computer engineering at Necmettin Erbakan University.</h3>
 
 - 🌱 I’m currently learning **Flutter & Dart**
-
-- Contact with me (www.linkedin.com/in/ayşegül-taşcı)
-
 - 📫 How to reach me **aysegul352tasci@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:( www.linkedin.com/in/ayşegül-taşcı)</h3>
 <p align="left">
 </p>
 
